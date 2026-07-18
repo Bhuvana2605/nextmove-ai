@@ -98,6 +98,20 @@ requirements.txt
 
 ---
 
+## Screenshots
+
+### Daily Email
+
+![Email](screenshots/email.png)
+
+### Lambda
+
+![Lambda](screenshots/lambda.png)
+
+### EventBridge Scheduler
+
+![Scheduler](screenshots/eventbridge.png)
+
 # 🚀 Running Locally
 
 ```bash
