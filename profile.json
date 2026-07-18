@@ -1,0 +1,31 @@
+{
+  "name": "Bhuvana",
+  "experience": "Student",
+  "available_hours": 2,
+
+  "skills": [
+    "Python",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "AWS",
+    "SQL",
+    "PowerBI"
+  ],
+
+  "interests": [
+    "Artificial Intelligence",
+    "Web Development",
+    "Open Source",
+    "Hackathons"
+  ],
+
+  "preferred_job_type": [
+    "Remote",
+    "Internship",
+    "Fellowship"
+  ],
+
+  "career_goal": "Become an AI Engineer and Full Stack Developer."
+}
